@@ -1,0 +1,6 @@
+{
+    "require": {
+        "danielmewes/php-rql": "dev-master",
+	"klein/klein": "dev-master"
+    }
+}
